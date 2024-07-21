@@ -33,29 +33,35 @@ This Flutter-based app aims to provide a seamless ticket booking experience for 
 ![WhatsApp Image 2024-07-21 at 11 30 52_39a4d7aa](https://github.com/user-attachments/assets/80cb23ad-a18b-4041-8599-a06d6e76f613)
 ![WhatsApp Image 2024-07-21 at 11 30 50_a52f2020](https://github.com/user-attachments/assets/ad0d9ea8-01ab-4f5f-ad5f-10d8e0600391)
 
+## __My Tickets__
+
+![WhatsApp Image 2024-07-21 at 11 30 48_4850888a](https://github.com/user-attachments/assets/f1b471c6-aa65-4fe9-975d-7e1fe6848562)
+![WhatsApp Image 2024-07-21 at 11 30 48_d37e30dd](https://github.com/user-attachments/assets/28fdc292-a844-4379-acfd-4be7ce31547f)
 
 
-Notifications
+## __Notifications__
 
-Profile Scree
+![WhatsApp Image 2024-07-21 at 11 30 47_13da8852](https://github.com/user-attachments/assets/5628fbd3-f053-4b59-990f-9bcbf6217eee)
 
-Getting Started
-# Clone the Repository:
+
+## __Profile Screen__
+![WhatsApp Image 2024-07-21 at 11 30 47_cb973c50](https://github.com/user-attachments/assets/942a1d23-e936-43b8-bccd-f8c3ed0a1267)
+
+
+# Getting Started
+## Clone the Repository:
 
 `git clone https://github.com/Abdul-Haseeb-Rajput/red_bus_ticket_booker_flutter.git`
 </br>
 
-# __Install Dependencies:__
+## __Install Dependencies:__
 
 `flutter pub get`
 </br>
-# __Run the App:__
+## __Run the App:__
 
 `flutter run`
 </br>
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Contact
+# Contact
 For any queries or suggestions, please contact me at [abdulhaseeb.9820@gmail.com](mailto:abdulhaseeb.9820@gmail.com)
